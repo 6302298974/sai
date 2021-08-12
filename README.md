@@ -1,3 +1,5 @@
 # sai
-this is my first repository 
-this is good to learn
+- This is my first repo
+```py
+print("Hello There ^_~")
+```
