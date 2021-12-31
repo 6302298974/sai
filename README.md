@@ -9,4 +9,5 @@ int main()
 printf("hii"):
 printf("everyone");
 printf("how are u")
+printf(" friends");
 ```
